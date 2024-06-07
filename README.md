@@ -16,7 +16,7 @@
 
 💬 Ask me about **Flask, MySQL, Linux... or anything [here](https://github.com/mike0192)**
 
-⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+⚡ Fun fact **The first text message ever sent was "Merry Christmas" on December 3, 1992**
 
  </div>
  
@@ -41,13 +41,6 @@
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/mike0192/mike0192/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
@@ -55,7 +48,12 @@
 <br>
 <div align=center>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mike0192)](https://github.com/mike0192/github-readme-stats)
+<div align="center">
+<img alt="mikes" src="https://github-readme-stats.vercel.app/api?username=mike0192&show_icons=true&theme=transparent"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mike0192&layout=compact&&langs_count=8"/>
+</div>
+
+
   <br/>
 
 </div>
