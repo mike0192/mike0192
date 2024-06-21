@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Freelancing**
  
- 🌱 I’m currently learning **Node.js, TypeScript, Redis**
+ 🌱 I’m currently learning **TypeScript, Redis**
 
 💬 Ask me about **Flask, MySQL, Linux... or anything [here](https://github.com/mike0192)**
 
